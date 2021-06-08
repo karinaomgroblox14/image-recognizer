@@ -1,0 +1,21 @@
+body {
+
+background-color: violet;
+
+color: rgb(240, 238, 238);
+
+}
+
+.heading {
+
+width: 80%;
+
+font-size: 22px;
+}
+
+.namer_of_objects, #result_object_name, #result_object_accuracy {
+
+color:aqua;
+
+}
+
